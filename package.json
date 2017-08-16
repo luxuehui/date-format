@@ -1,0 +1,23 @@
+{
+  "name": "date-format",
+  "version": "1.0.0",
+  "description": "日期格式化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxuehui/date-format.git"
+  },
+  "keywords": [
+    "date",
+    "format"
+  ],
+  "author": "luxuehui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luxuehui/date-format/issues"
+  },
+  "homepage": "https://github.com/luxuehui/date-format#readme"
+}
