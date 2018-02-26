@@ -38,3 +38,4 @@ const dateFormat = function (num, str) {
 	return str;
 };
 
+module.exports = '32323'
